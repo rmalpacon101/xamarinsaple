@@ -1,0 +1,2 @@
+C:\Users\malpa_000\Documents\Visual Studio 2015\Projects\TeamFormation\TeamFormation\TeamFormation.Windows\TeamFormation.Windows.csproj;neutral
+C:\Users\malpa_000\Documents\Visual Studio 2015\Projects\TeamFormation\TeamFormation\TeamFormation\TeamFormation.csproj;neutral
